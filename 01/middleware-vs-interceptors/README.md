@@ -4,6 +4,7 @@ Based on https://github.com/lambdaisland/ep47-interceptors
 
 ## Links
 - https://quanttype.net/posts/2018-08-03-why-interceptors.html
+- https://github.com/miikka/cardboard-interceptor
 - https://lambdaisland.com/episodes/interceptors-concepts
 - https://github.com/lambdaisland/ep47-interceptors
 - https://lispcast.com/a-model-of-interceptors/
